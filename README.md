@@ -1,6 +1,6 @@
 # notesapp
 
-A new Flutter project.
+A new Branch ina project
 
 ## Getting Started
 
